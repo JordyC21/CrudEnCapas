@@ -1,0 +1,15 @@
+C:\Users\matri\OneDrive\Escritorio\CRUD PROGRAMACION\CRUDBAR-IRVR\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.AssemblyReference.cache
+C:\Users\matri\OneDrive\Escritorio\CRUD PROGRAMACION\CRUDBAR-IRVR\CapaNegocio\obj\Debug\net6.0\CapaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matri\OneDrive\Escritorio\CRUD PROGRAMACION\CRUDBAR-IRVR\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfoInputs.cache
+C:\Users\matri\OneDrive\Escritorio\CRUD PROGRAMACION\CRUDBAR-IRVR\CapaNegocio\obj\Debug\net6.0\CapaNegocio.AssemblyInfo.cs
+C:\Users\matri\OneDrive\Escritorio\CRUD PROGRAMACION\CRUDBAR-IRVR\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\matri\OneDrive\Escritorio\CRUD PROGRAMACION\CRUDBAR-IRVR\CapaNegocio\bin\Debug\net6.0\CapaNegocio.deps.json
+C:\Users\matri\OneDrive\Escritorio\CRUD PROGRAMACION\CRUDBAR-IRVR\CapaNegocio\bin\Debug\net6.0\CapaNegocio.dll
+C:\Users\matri\OneDrive\Escritorio\CRUD PROGRAMACION\CRUDBAR-IRVR\CapaNegocio\bin\Debug\net6.0\CapaNegocio.pdb
+C:\Users\matri\OneDrive\Escritorio\CRUD PROGRAMACION\CRUDBAR-IRVR\CapaNegocio\bin\Debug\net6.0\CapaDatos.dll
+C:\Users\matri\OneDrive\Escritorio\CRUD PROGRAMACION\CRUDBAR-IRVR\CapaNegocio\bin\Debug\net6.0\CapaDatos.pdb
+C:\Users\matri\OneDrive\Escritorio\CRUD PROGRAMACION\CRUDBAR-IRVR\CapaNegocio\obj\Debug\net6.0\CapaNegocio.csproj.CopyComplete
+C:\Users\matri\OneDrive\Escritorio\CRUD PROGRAMACION\CRUDBAR-IRVR\CapaNegocio\obj\Debug\net6.0\CapaNegocio.dll
+C:\Users\matri\OneDrive\Escritorio\CRUD PROGRAMACION\CRUDBAR-IRVR\CapaNegocio\obj\Debug\net6.0\refint\CapaNegocio.dll
+C:\Users\matri\OneDrive\Escritorio\CRUD PROGRAMACION\CRUDBAR-IRVR\CapaNegocio\obj\Debug\net6.0\CapaNegocio.pdb
+C:\Users\matri\OneDrive\Escritorio\CRUD PROGRAMACION\CRUDBAR-IRVR\CapaNegocio\obj\Debug\net6.0\ref\CapaNegocio.dll
